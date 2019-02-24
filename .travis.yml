@@ -1,0 +1,6 @@
+os: osx
+language: swift
+osx_image: xcode10.1
+xcode_project: FoodTracker.xcodeproj
+xcode_scheme: FoodTracker
+xcode_sdk: iphonesimulator12.1
